@@ -67,6 +67,9 @@ function draw() do
     draw_rect(squareX, squareY, squareSize, squareSize, squareR, squareG, squareB)
 end
 ```
+
+**Run**
+
 ```
 game main.suny
 ```
